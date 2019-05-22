@@ -27,6 +27,7 @@ public/js/lib/popper.min*
 
 # API keys and secrets
 .env
+.env.local
 
 # Dependency directory
 node_modules
@@ -35,6 +36,7 @@ bower_components
 # Editors
 .idea
 .vscode
+.history
 *.iml
 modules.xml
 *.ipr
